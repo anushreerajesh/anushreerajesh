@@ -27,21 +27,21 @@ I'm a passionate developer with a strong interest in Artificial Intelligence, De
 ---
 
 ## 🚀 Featured Projects
-# 🎓 Virtual Classroom Dashboard
+### 🎓 Virtual Classroom Dashboard
 Real-time Streamlit dashboard that analyzes live classroom video feeds to monitor student attentiveness, detect emotional states, and evaluate teacher effectiveness using facial and gaze analysis.
-# Tech: Python, OpenCV, DeepFace, GazeTracking, Streamlit
+#### Tech: Python, OpenCV, DeepFace, GazeTracking, Streamlit
 
-# 🛡️ Safe View AI
+### 🛡️ Safe View AI
 AI-powered public transport system that detects violent scenes in real time using lightweight CNNs and replaces them with calm visuals to protect children from harmful exposure.
-# Tech: Python, TensorFlow, OpenCV, CNN, Real-Life Violence Dataset
+#### Tech: Python, TensorFlow, OpenCV, CNN, Real-Life Violence Dataset
 
-# 💊 Abnormalities Detection in Medical Prescriptions
+### 💊 Abnormalities Detection in Medical Prescriptions
 Built an AI model to detect anomalies in handwritten medical prescriptions using OCR and pattern recognition to prevent medication errors and support safer healthcare practices.
-# Tech: Python, OpenCV, Tesseract OCR, Scikit-learn
+#### Tech: Python, OpenCV, Tesseract OCR, Scikit-learn
 
-# ✈️ Real-Time Flight Data Abnormalities Detection
+### ✈️ Real-Time Flight Data Abnormalities Detection
 Developed a system to analyze live aircraft telemetry data and flag abnormal flight behavior using time-series models for predictive safety and maintenance insights.
-# Tech: Python, Keras, LSTM, WebSocket, NumPy, Pandas
+#### Tech: Python, Keras, LSTM, WebSocket, NumPy, Pandas
 
 ---
 
