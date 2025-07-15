@@ -26,7 +26,7 @@ I'm a passionate developer with a strong interest in Artificial Intelligence, De
 
 ---
 
-🚀 Featured Projects
+## 🚀 Featured Projects
 🎓 Virtual Classroom Dashboard
 Real-time Streamlit dashboard that analyzes live classroom video feeds to monitor student attentiveness, detect emotional states, and evaluate teacher effectiveness using facial and gaze analysis.
 Tech: Python, OpenCV, DeepFace, GazeTracking, Streamlit
